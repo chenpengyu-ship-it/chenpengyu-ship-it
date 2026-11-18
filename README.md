@@ -1,7 +1,4 @@
-
-
 <!--
-
 <h1 align="center">Hi 👋, I'm Chen Pengyu</h1>
 <h3 align="center">A Computer Science student majoring in Computer Networks and Security at UTM</h3>
 
